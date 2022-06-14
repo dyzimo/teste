@@ -1,0 +1,9 @@
+Building Insignicoin
+
+See doc/readme-qt.rst for instructions on building Insignicoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Insignicoin.
+
+See doc/build-*.txt for instructions on building insignicoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Insignicoin.
